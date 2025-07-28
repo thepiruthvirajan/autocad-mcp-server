@@ -2,6 +2,9 @@
 
 🏗️ **A powerful Python-based Model Context Protocol (MCP) server that provides programmatic control over AutoCAD through COM automation.**
 
+**Youtube video of the working demo**
+https://www.youtube.com/watch?v=KQpxiXvF4cc
+
 Transform your AutoCAD workflow with intelligent building structure creation, automatic layer management, and comprehensive entity manipulation - all through Claude and other MCP clients.
 
 ## 🚀 Quick Start (30 seconds)
